@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "WebSQL FTS support check",
+  "description": "This extension checks for WebSQL FTS support",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
